@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<layout>
+  <default>
+    
+    <!--reference name="right">
+	<remove name="catalog.compare.sidebar" />
+	<remove name="em.catalog.compare.sidebar" />
+	</reference-->
+    <reference name="head">
+      <action method="addJs">feideus/buttonsoclose.js</action>
+    </reference>
+  </default>
+  
+</layout>

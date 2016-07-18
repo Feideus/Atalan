@@ -1,0 +1,17 @@
+function createButton(){
+
+    var button = document.createElement("input");
+    var LaDiv = document.getElementById("scriptos");
+   
+    alert(LaDiv);
+    alert(button);
+    button.style="width:600px;height:600px;font-size:20px;background-color:red;"
+    alert(ElemBefore[0]);
+    button.type = "button";
+    button.value = "COUCOU";
+    button.onclick = "alert()";
+    LaDiv.appendChild(button);
+    
+}
+
+setTimeout(createButton,2000);

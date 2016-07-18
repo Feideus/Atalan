@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<layout>
+    <default>
+    
+      <!--reference name="right">
+	<remove name="catalog.compare.sidebar" />
+	<remove name="em.catalog.compare.sidebar" />
+      </reference-->
+      <reference name="root">
+        <remove name="left" />
+      </reference>
+      <reference name="left">
+	<remove name="catalog.compare.sidebar" />
+	<remove name="em.catalog.compare.sidebar" />
+      </reference>
+      
+    </default>
+   
+</layout>

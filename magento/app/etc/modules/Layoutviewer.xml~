@@ -1,0 +1,8 @@
+<config>
+    <modules>
+        <Feideus_Layoutviewer>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Feideus_Layoutviewer>
+    </modules>
+</config>

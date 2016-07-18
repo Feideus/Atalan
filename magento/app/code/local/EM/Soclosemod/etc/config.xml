@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <EM_Soclosemod>
+            <version>0.1.0</version>
+        </EM_Soclosemod>
+    </modules>
+    <frontend>
+        <routers>
+            <soclosemod>
+                <use>standard</use>
+                <args>
+                    <module>EM_Soclosemod</module>
+                    <frontName>soclosemod</frontName>
+                </args>
+            </soclosemod>
+        </routers>
+    </frontend>
+</config>

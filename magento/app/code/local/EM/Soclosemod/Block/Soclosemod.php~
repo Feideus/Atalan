@@ -1,0 +1,12 @@
+<?php
+class EM_Soclosemod_Block_Soclosemod extends Mage_Core_Block_Template
+{
+  public function addButton()
+  {
+    echo 'Hi Guys';
+    //$button = $this->getLayout()->createBlock('adminhtml/widget_button')
+    //->setData(array( 'label' => "Socloz Button" ));
+  }
+}
+
+?>

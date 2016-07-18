@@ -1,0 +1,284 @@
+.em-slideshow {
+  margin-bottom: 0;
+}
+.em-slideshow .owl-theme .owl-controls .owl-buttons div {
+  top: 44%;
+  background: transparent !important;
+}
+.em-slideshow .owl-theme .owl-controls .owl-buttons div.owl-prev:before {
+  content: "\f104";
+}
+.em-slideshow .owl-theme .owl-controls .owl-buttons div.owl-next:before {
+  content: "\f105";
+}
+
+.em-search .em-search-style01 .em-container-js-search, .em-search .em-search-style01 #em-search-content-fixed-top {
+  top: 33px;
+}
+
+.em-top-cart .topcart-popup {
+  top: 46px;
+}
+
+.popup-content {
+  background: url(../images/media/home/popup_banner_valentine.png) right bottom no-repeat #ffeaea;
+  /*width:730px;
+  	min-height:370px;*/
+}
+.popup-content .popup-subscribe .em-newsletter-style05 .block-subscribe .form-subscribe-content {
+  width: 100%;
+  display: inline-block;
+}
+.popup-content .popup-subscribe .em-newsletter-style05 .block-subscribe .form-subscribe-content .input-box {
+  width: 100% !important;
+}
+.popup-content .popup-subscribe .em-newsletter-style05 .block-subscribe .form-subscribe-content .input-box input.input-text {
+  width: 100%;
+  box-shadow: none;
+  border-radius: 0;
+  padding-right: 50px;
+  background-color: transparent !important;
+}
+.popup-content .popup-subscribe .em-newsletter-style05 .block-subscribe .form-subscribe-content .actions button.button {
+  font-size: 0;
+  border-radius: 0;
+  padding: 10px 0 10px 10px;
+  right: 0;
+}
+.popup-content .popup-subscribe .em-newsletter-style05 .block-subscribe .form-subscribe-content .actions button.button:before {
+  display: inline-block;
+  font-family: FontAwesome;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  content: "\f1d8";
+  font-size: 18px;
+}
+.popup-content .popup-subscribe .em-block-title h2 {
+  text-align: left !important;
+}
+.popup-content .popup-subscribe .em-block-title h2 span {
+  font-size: 140%;
+}
+
+.img-responsive, .products-grid .item img {
+  border-radius: 0;
+}
+
+.em-language-currency .toolbar-dropdown li a {
+  text-align: left;
+  padding: 0 10px;
+}
+
+@media (min-width: 980px) {
+  .form-search input.input-text {
+    width: 310px;
+  }
+}
+.em-wrapper-ads-10.em-line-01 {
+  margin-bottom: 60px;
+}
+.em-wrapper-ads-10.em-line-01 .em-blog-item {
+  margin-bottom: 0;
+}
+
+.em-wrapper-area04 .em-wrapper-banners, .em-wrapper-area04 .img-banner {
+  margin-bottom: 0;
+}
+
+.em-wrapper-area02 .effect-hover-text .banner-text {
+  left: 20px;
+  right: 20px;
+  top: auto;
+  bottom: 20px;
+}
+
+.cms-index-index .em-wrapper-main {
+  /*.widget-title*/
+  /*.owl-buttons*/
+  /*===============================TAB*/
+}
+.cms-index-index .em-wrapper-main button.btn-cart, .cms-index-index .em-wrapper-main .link-wishlist, .cms-index-index .em-wrapper-main .add-to-links li a.link-wishlist, .cms-index-index .em-wrapper-main .add-to-links li a.link-compare, .cms-index-index .em-wrapper-main .quickshop-link-container .quickshop-link {
+  border-radius: 0;
+}
+.cms-index-index .em-wrapper-main .em-wrapper-products {
+  margin-bottom: 60px;
+  clear: both;
+}
+.cms-index-index .em-wrapper-main .widget-title, .cms-index-index .em-wrapper-main .em-block-title {
+  margin-bottom: 25px;
+}
+.cms-index-index .em-wrapper-main .widget-title h3 span, .cms-index-index .em-wrapper-main .widget-title h2 span, .cms-index-index .em-wrapper-main .em-block-title h3 span, .cms-index-index .em-wrapper-main .em-block-title h2 span {
+  position: relative;
+}
+.cms-index-index .em-wrapper-main .widget-title h3 span:after, .cms-index-index .em-wrapper-main .widget-title h2 span:after, .cms-index-index .em-wrapper-main .em-block-title h3 span:after, .cms-index-index .em-wrapper-main .em-block-title h2 span:after {
+  position: absolute;
+  left: calc((100% - 40px) / 2);
+  bottom: 0;
+  content: "";
+  width: 40px;
+}
+.cms-index-index .em-wrapper-main .owl-theme .owl-controls .owl-buttons div {
+  font-size: 0 !important;
+  margin: 30px 15px !important;
+  padding: 10px 6px !important;
+  width: 35px;
+  height: 35px;
+  border-radius: 0 !important;
+  background: transparent !important;
+  border: 0 none !important;
+}
+.cms-index-index .em-wrapper-main .owl-theme .owl-controls .owl-buttons div.owl-prev, .cms-index-index .em-wrapper-main .owl-theme .owl-controls .owl-buttons div.owl-next {
+  position: relative;
+  right: 0;
+  left: 0;
+  top: 0;
+}
+.cms-index-index .em-wrapper-main .owl-theme .owl-controls .owl-buttons div.owl-prev:before, .cms-index-index .em-wrapper-main .owl-theme .owl-controls .owl-buttons div.owl-next:before {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-size: 15px;
+  -moz-transition: all 500ms ease;
+  -webkit-transition: all 500ms ease;
+  -o-transition: all 500ms ease;
+  transition: all 500ms ease;
+  -moz-backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  display: inline-block;
+  font-family: FontAwesome;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1;
+}
+.cms-index-index .em-wrapper-main .owl-theme .owl-controls .owl-buttons div.owl-prev:after, .cms-index-index .em-wrapper-main .owl-theme .owl-controls .owl-buttons div.owl-next:after {
+  content: "";
+  border-style: solid;
+  border-width: 1px;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  -webkit-transform: rotate(-45deg);
+  -moz-transform: rotate(-45deg);
+  -ms-transform: rotate(-45deg);
+  -o-transform: rotate(-45deg);
+}
+.cms-index-index .em-wrapper-main .owl-theme .owl-controls .owl-buttons div.owl-next:before {
+  content: "\f178";
+  margin-left: 3px;
+}
+.cms-index-index .em-wrapper-main .owl-theme .owl-controls .owl-buttons div.owl-prev:before {
+  content: "\f177";
+  margin-right: 2px;
+}
+.cms-index-index .em-wrapper-main .em-tabs .widget-title {
+  margin-bottom: 0;
+}
+.cms-index-index .em-wrapper-main .tabs .tab-link {
+  display: inline-block;
+  float: none;
+  position: relative;
+}
+.cms-index-index .em-wrapper-main .tabs .tab-link a {
+  padding: 10px 40px;
+  margin: 20px 6px;
+  font-size: 110%;
+  display: inline-block;
+  -moz-transition: all 500ms ease;
+  -webkit-transition: all 500ms ease;
+  -o-transition: all 500ms ease;
+  transition: all 500ms ease;
+  -moz-backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+}
+.cms-index-index .em-wrapper-main .tabs .tab-link.active a {
+  cursor: default;
+}
+
+.em-wrapper-ads-10 .em-blog-content {
+  position: relative;
+}
+.em-wrapper-ads-10 .em-blog-content .em-blog-time {
+  padding: 0;
+  bottom: 20px;
+  top: auto;
+  min-width: 70px;
+  background-color: #fff;
+  text-align: center;
+  border-radius: 0;
+}
+.em-wrapper-ads-10 .em-blog-content .em-blog-time p.em-blog-month {
+  font-size: 80%;
+  padding: 5px 0 7px;
+  text-transform: capitalize;
+  background-color: red;
+}
+.em-wrapper-ads-10 .em-blog-content .em-blog-time p.em-blog-date {
+  font-size: 200%;
+  padding: 7px 0;
+  background-color: #fff;
+  color: #000;
+}
+.em-wrapper-ads-10 .em-blog-content .em-blog-time:before {
+  border-radius: 0;
+  background-color: #fff;
+}
+
+.em-newsletter .newsletter-boder-input-act .block-subscribe {
+  border-radius: 0;
+  padding: 15px;
+}
+.em-newsletter .newsletter-boder-input-act .block-subscribe input.input-text {
+  box-shadow: none;
+}
+.em-newsletter .newsletter-boder-input-act .block-subscribe button.button {
+  border-radius: 0;
+}
+
+/*em-newsletter*/
+.em-wrapper-footer .em-footer-bottom {
+  padding-bottom: 10px;
+}
+
+/*Main Color Variation*/
+.em-color span.emColorStyle01 {
+  background: #6385a0;
+}
+.em-color span.emColorStyle01:before {
+  background: #ffffff;
+}
+.em-color span.emColorStyle01:after {
+  background: #000000;
+}
+.em-color span.emColorStyle02 {
+  background: #dd5d5c;
+}
+.em-color span.emColorStyle02:before {
+  background: #ffffff;
+}
+.em-color span.emColorStyle02:after {
+  background: #000000;
+}
+.em-color span.emColorStyle03 {
+  background: #f1c759;
+}
+.em-color span.emColorStyle03:before {
+  background: #ffffff;
+}
+.em-color span.emColorStyle03:after {
+  background: #000000;
+}
+.em-color span.emColorStyle04 {
+  background: #6eefc9;
+}
+.em-color span.emColorStyle04:before {
+  background: #ffffff;
+}
+.em-color span.emColorStyle04:after {
+  background: #000000;
+}
