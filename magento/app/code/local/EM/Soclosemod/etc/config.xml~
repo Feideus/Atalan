@@ -2,32 +2,18 @@
 <config>
     <modules>
         <EM_Soclosemod>
-            <version>0.1.0</version>    <!-- Version of module -->
+            <version>0.1.0</version>
         </EM_Soclosemod>
     </modules>
     <frontend>
         <routers>
-            <Soclosemod>
+            <soclosemod>
                 <use>standard</use>
                 <args>
                     <module>EM_Soclosemod</module>
-                    <frontName>Soclosemod</frontName>
+                    <frontName>soclosemod</frontName>
                 </args>
-            </Soclosemod>
+            </soclosemod>
         </routers>
-         <layout>
-            <updates>
-                <Soclosemod>
-                    <file>Soclosemod.xml</file> <!-- Our layout file name-->
-                </Soclosemod>
-            </updates>
-         </layout>
     </frontend>
-    <global>
-        <blocks>
-            <Soclosemod>
-                <class>EM_Soclosemod_Block</class>
-            </Soclosemod>
-        </blocks>
-    </global>
 </config>
