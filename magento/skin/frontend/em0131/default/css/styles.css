@@ -7736,6 +7736,7 @@ div.desc {
 }
 .product-view-detail button.button.btn-cart {
   margin-right: 0;
+  float: right;
 }
 .product-view-detail button.button.btn-cart:before {
   font-size: 100%;

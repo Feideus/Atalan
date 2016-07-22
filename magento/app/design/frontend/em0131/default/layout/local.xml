@@ -6,9 +6,6 @@
 	<remove name="catalog.compare.sidebar" />
 	<remove name="em.catalog.compare.sidebar" />
 	</reference-->
-    <reference name="head">
-      <action method="addJs">feideus/buttonsoclose.js</action>
-    </reference>
   </default>
   
 </layout>

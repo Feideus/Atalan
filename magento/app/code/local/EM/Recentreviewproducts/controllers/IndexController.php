@@ -39,7 +39,9 @@ class EM_Recentreviewproducts_IndexController extends Mage_Core_Controller_Front
 		}
 		Mage::register('recentreviewproducts', $recentreviewproducts);
 		*/
-      $this->loadLayout();     
-      $this->renderLayout();
+
+			
+		$this->loadLayout();     
+		$this->renderLayout();
     }
 }

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <layout version="0.1.0">
   <default>
-    <reference name="head">
+    <!--reference name="head">
       <action method="addJs"><script>feideus/buttonsoclose.js</script></action>
 
-    </reference>
+    </reference-->
   </default>
 </layout>

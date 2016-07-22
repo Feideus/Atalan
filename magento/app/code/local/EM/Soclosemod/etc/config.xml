@@ -25,4 +25,11 @@
         </updates>
       </layout>
     </frontend>
+    <global>
+      <blocks>
+        <soclosemod>
+                <class>EM_Soclosemod_Block</class>
+        </soclosemod>
+      </blocks>
+    </global>
   </config>
